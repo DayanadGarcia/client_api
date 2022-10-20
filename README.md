@@ -242,10 +242,12 @@ end
   - Listando todos clientes (método index):
 
 
+
  ![lista de clintes](/images/Captura%20de%20tela%20de%202022-10-07%2018-26-16.png)
 
 
   - Pesquisando cliente pelo id (método show):
+
 
 
   ![busca pelo id do cliente](/images/Captura%20de%20tela%20de%202022-10-07%2018-30-57.png)
@@ -254,10 +256,12 @@ end
   - Cadastrando um novo cliente (método create):
 
 
+
   ![busca pelo id do cliente](/images/Captura%20de%20tela%20de%202022-10-07%2018-33-37.png)
 
 
   - Atualizando um cliente (método update):
+
 
 
   ![busca pelo id do cliente](/images/Captura%20de%20tela%20de%202022-10-07%2018-50-32.png)
@@ -266,7 +270,10 @@ end
   - Deletar um cliente (método delete):
 
 
+
   ![busca pelo id do cliente](/images/Captura%20de%20tela%20de%202022-10-07%2018-54-20.png)
+
+
 
 
 ### Utilizamos nesse projeto as gem **Faker** e **PG** para gerar dados fictícios e conectar com o banco de dados, respectivamente, e assim concluímos nossa API Rest em Rails!
